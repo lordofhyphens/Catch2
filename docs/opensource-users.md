@@ -103,6 +103,9 @@ SpECTRE is a code for multi-scale, multi-physics problems in astrophysics and gr
 ### [Standardese](https://github.com/foonathan/standardese)
 Standardese aims to be a nextgen Doxygen
 
+### [Slic3r](https://github.com/slic3r/Slic3r)
+3D Printing toolpath generator. 
+
 ---
 
 [Home](Readme.md#top)
